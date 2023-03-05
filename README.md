@@ -1,1 +1,3 @@
-# react-vite
+# react
+
+props is object.
