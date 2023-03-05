@@ -11,7 +11,6 @@
 
 .pic img {
     width: 100%;
-    border-radius:11px;
 }
 
 .title {
@@ -20,3 +19,13 @@
     color: white
 }
 
+.channel,
+.views {
+    font-size: small;
+    color: #ccc;
+    margin-bottom: 0.2em;
+}
+
+.views span {
+    padding: 0 0.5em;
+}
